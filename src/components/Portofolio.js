@@ -14,19 +14,19 @@ function Portofolio() {
         <main id="porto">
             <button onClick={() => use('/')} id="btn">Home</button>
             <section className="s1">
-                <img src={ocean} alt="Ocean"></img>
+                <img src={ocean} alt="Ocean1"></img>
             </section>
             <section className="s1">
-                <img src={ocean1} alt="Ocean"></img>
+                <img src={ocean1} alt="Ocean2"></img>
             </section>
             <section className="s1">
-                <img src={falls} alt="Ocean"></img>
+                <img src={falls} alt="Ocean3"></img>
             </section>
             <section className="s1">
-                <img src={mountain} alt="Ocean"></img>
+                <img src={mountain} alt="Ocean4"></img>
             </section>
             <section className="s1">
-                <img src={mountain1} alt="Ocean"></img>
+                <img src={mountain1} alt="Ocean5"></img>
             </section>
 
         </main>

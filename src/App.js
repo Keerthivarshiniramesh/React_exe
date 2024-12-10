@@ -18,7 +18,6 @@ function App() {
             <Route path="*" Component={NotFound}></Route>
             {/* only use normal function */}
 
-
         </Routes>
 
     )
